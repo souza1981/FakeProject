@@ -9,6 +9,8 @@ public class FakeClass {
         System.out.println("Linha branch fakebug_2.3");
         System.out.println("Linha branch fakebug_3");
         System.out.println("Linha branch fakebug_3.1");
+        System.out.println("Linha branch fakebug_3.2");
+
         
     }
 }
